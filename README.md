@@ -19,12 +19,15 @@ Welcome to my comprehensive and efficient C++ algorithms toolkit! This repositor
 - [`Sum_Segment_Tree.cpp`](./Sum_Segment_Tree.cpp) - Segment Tree (Point Update, Range Sum)
 - [`Min_Sparse_Table.cpp`](./Min_Sparse_Table.cpp) - Sparse Table for Range Minimum Query (RMQ)
 - [`Sum_Sparse_Table.cpp`](./Sum_Sparse_Table.cpp) - Sparse Table for Range Sum Query
+- [`Fenwick_Tree.cpp`](./Fenwick_Tree.cpp) - Fenwick Tree (Binary Indexed Tree)
 - [`Red-Black_Tree.cpp`](./Red-Black_Tree.cpp) - Red-Black Tree Implementation
 
 ### 📐 Mathematics & Number Theory
 - [`Sieve_of_Eratosthenes.cpp`](./Sieve_of_Eratosthenes.cpp) - Prime Number Generation
 - [`Function_IsPrime.cpp`](./Function_IsPrime.cpp) - Fast Primality Test
 - [`Binary_Exponentiation.cpp`](./Binary_Exponentiation.cpp) - Calculates \(a^n\) in \(O(\log n)\)
+- [`Greatest_Common_Divisor.cpp`](./Greatest_Common_Divisor.cpp) - GCD Calculation
+- [`Least_Common_Multiple.cpp`](./Least_Common_Multiple.cpp) - LCM Calculation
 - [`Whell_Factorization.cpp`](./Whell_Factorization.cpp) - Wheel Factorization
 - [`Sum_of_Divisiors.cpp`](./Sum_of_Divisiors.cpp) - Calculate the sum of all divisors of a number
 
@@ -35,6 +38,7 @@ Welcome to my comprehensive and efficient C++ algorithms toolkit! This repositor
 
 ### 🧠 Dynamic Programming / Techniques
 - [`Bitmask.cpp`](./Bitmask.cpp) - Bitmask Operations for DP
+- [`Longest_Increasing_Subsequence.cpp`](./Longest_Increasing_Subsequence.cpp) - Longest Increasing Subsequence (LIS)
 
 ## 💡 How to Use
 Feel free to clone the repository, explore the snippets, and use these templates for your own CP solutions seamlessly. The implementations are designed to be standalone, straightforward, and easily copy-pasteable.
